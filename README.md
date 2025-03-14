@@ -6,6 +6,19 @@
 
 <div align=center>
   
+  ![BUILT WITH](https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-cd6133?labelColor=ff793f&style=for-the-badge&logoColor=f0f0f0)
+  [![][made-with]][gimp]
+  [![Github All Releases](https://img.shields.io/github/downloads/PixeliGer/OPL-Theme-PadOS/total?style=for-the-badge)]()
+  
+  [gimp]: https://www.gimp.org/
+  [made-with]: https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto&label=Made%20With
+  
+  
+  [![][download-pixel-prime]][pixel-prime]
+  
+  [pixel-prime]: https://github.com/PixeliGer/OPL-Theme-PadOS/releases/latest
+  [download-pixel-prime]: https://img.shields.io/badge/Download%20🡇-35BF5C?style=for-the-badge
+  
 </div>
 
 **PadOS** theme for Open PS2 Loader based on the iOS iPad interface, offers a streamlined and elegant design. It provides a familiar and user-friendly experience, perfect for those who appreciate Apple's aesthetic.
@@ -74,7 +87,7 @@ THM/
 VMC/
 ```
 
-**2. Download one of the zip files that contains one of the Theme variants from the [Releases](https://github.com/PixeliGer/OPL-Theme-Pixel-Prime/releases/latest) page or using the green `DOWNLOAD` button at the top, (make sure it's one with the `thm_` prefix in its name)**
+**2. Download one of the zip files that contains one of the Theme variants from the [Releases](https://github.com/PixeliGer/OPL-Theme-PadOS/releases/latest) page or using the green `DOWNLOAD` button at the top, (make sure it's one with the `thm_` prefix in its name)**
 ```
 thm_PadOS
 thm_PadOS-S
