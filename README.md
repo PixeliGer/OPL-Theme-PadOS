@@ -1,31 +1,24 @@
 # PadOS Theme
 
 <p align="center">
-  <img src="https://github.com/PixeliGer/OPL-Theme-PadOS/blob/main/assets/logo.png">
+  <img width="320" src="https://github.com/PixeliGer/OPL-Theme-PadOS/blob/main/assets/logo.png">
 </p>
 
-<div align=center>
+<div align="center">
   
   ![BUILT WITH](https://img.shields.io/badge/BUILT%20WITH-%E2%9D%A4-cd6133?labelColor=ff793f&style=for-the-badge&logoColor=f0f0f0)
-  [![][made-with]][gimp]
-  ![PS2](https://img.shields.io/badge/ps2-007acc?style=for-the-badge&logo=playstation&logoColor=white&logoSize=auto&label=Made%20For)
-  [![Github All Releases](https://img.shields.io/github/downloads/PixeliGer/OPL-Theme-PadOS/total?style=for-the-badge)]()
+  [![Made With GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&label=Made%20With)](https://www.gimp.org/)
+  ![PS2](https://img.shields.io/badge/ps2-007acc?style=for-the-badge&logo=playstation&logoColor=white&label=Made%20For)
+  ![Downloads](https://img.shields.io/github/downloads/PixeliGer/OPL-Theme-PadOS/total?style=for-the-badge&logo=github&label=downloads&labelColor=000000)
   
-  [gimp]: https://www.gimp.org/
-  [made-with]: https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white&logoSize=auto&label=Made%20With
-  
-  
-  [![][download-opl-theme]][opl-theme]
-  
-  [opl-theme]: https://github.com/PixeliGer/OPL-Theme-PadOS/releases/latest
-  [download-opl-theme]: https://custom-icon-badges.demolab.com/badge/-Download-35BF5C?style=for-the-badge&logo=download&logoColor=white
+  [![Download Theme](https://custom-icon-badges.demolab.com/badge/-Download-35BF5C?style=for-the-badge&logo=download&logoColor=white)](https://github.com/PixeliGer/OPL-Theme-PadOS/releases/latest)
   
 </div>
 
 **PadOS** theme for Open PS2 Loader based on the iOS iPad interface, offers a streamlined and elegant design. It provides a familiar and user-friendly experience, perfect for those who appreciate Apple's aesthetic.
 
 
-<div align = middle>
+<div align="center">
   <br>
   
   &ensp;[<kbd> <br> Installation <br> </kbd>](#-installation)&ensp;
@@ -40,7 +33,7 @@
 
 ## 🌱 Inspiration
 
-<p align="middle">
+<p align="center">
   <img width="48%" src="https://cdn.idropnews.com/wp-content/uploads/2021/07/22103306/Game-Center-Widget-for-iPad.jpg">
   <img width="48%" src="https://ph-files.imgix.net/144119fe-6098-4ead-9c89-a648bbb9988e.png?auto=format&fit=crop&frame=1&h=610&w=1024">
   <img width="48%" src="https://cdn.macstories.net/thursday-14-sep-2023-13-37-06-1694691434249.png">
@@ -61,14 +54,14 @@
 
 #### Main Widgets
 
-<p align="middle">  
+<p align="center">  
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-PadOS/blob/main/assets/screenshots/screenshot1.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-PadOS/blob/main/assets/screenshots/screenshot2.png">
 </p>
 
 #### Single Widget
 
-<p align="middle">  
+<p align="center">  
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-PadOS/blob/main/assets/screenshots/screenshot4.png">
   <img width="48%" src="https://github.com/PixeliGer/OPL-Theme-PadOS/blob/main/assets/screenshots/screenshot5.png">
 </p>
@@ -141,8 +134,13 @@ hdd0:/+OPL/THM/thm_PadOS/
 
 **4. Launch OPL, if it was already open, restart it.**
 
-**5. Go to OPL Settings and then `Display Settings`. In the `Theme` option, find and select your theme, then click `OK` to apply it.**
-
+**5. Apply the Theme:** 
+  - Press <kbd>Start</kbd> to open `OPL Settings`
+  - Navigate to `Display Settings`
+  - Select the `Theme` option
+  - Using the <kbd>Up</kbd> and <kbd>Down</kbd> buttons on the D-Pad, find and select the `OPLAdvance` theme from the list
+  - Press on `OK` to apply the Theme
+  - The theme will load immediately and take effect
 
 ## 💡 Recommendations
 
@@ -152,4 +150,6 @@ To enhance your experience with the theme, consider these recommendations:
 * Make sure you are using an updated or recent version of [Open Ps2 Loader 1.2](https://github.com/ps2homebrew/Open-PS2-Loader/releases/tag/latest)
 * Download the assets for the `ART` folder (Background Image, Cover, Disc Cover, etc.) using the latest version of [OPL Manager](https://oplmanager.com/site/)
 
+---
 
+**Made with ❤️ for the PS2 Community**
